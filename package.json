@@ -1,0 +1,16 @@
+{
+  "name": "demo-convict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js  --env prod --port 6666"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convict": "^4.4.1"
+  }
+}
